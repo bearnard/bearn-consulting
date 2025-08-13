@@ -1,0 +1,19 @@
+{
+  "name": "Bearn Consulting",
+  "short_name": "Bearn",
+  "description": "Bearn Consulting — WhatsApp Business API, AI, and DevOps consulting.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "minimal-ui",
+  "theme_color": "#0b1220",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/?source=pwa"
+}
